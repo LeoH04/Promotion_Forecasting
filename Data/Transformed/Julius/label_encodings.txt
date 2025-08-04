@@ -1,0 +1,27 @@
+Region:
+  East: 0
+  North: 1
+  South: 2
+  West: 3
+
+Weather Condition:
+  Cloudy: 0
+  Snowy: 1
+  Sunny: 2
+
+Category:
+  Clothing: 0
+  Electronics: 1
+  Furniture: 2
+  Groceries: 3
+  Toys: 4
+
+Weekday:
+  Friday: 0
+  Monday: 1
+  Saturday: 2
+  Sunday: 3
+  Thursday: 4
+  Tuesday: 5
+  Wednesday: 6
+
